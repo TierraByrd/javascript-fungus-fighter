@@ -11,6 +11,9 @@ function onReady() {
     
     
     // 🧠 Remember
+    // define variables
+
+    
     // - Handle events that ->
     // - Updates state which is ->
     // - Rendered to the DOM
