@@ -12,8 +12,9 @@ function onReady() {
     
     // 🧠 Remember
     // define variables
+let attacksAP = 100;
+let enemyHP = 100;
 
-    
     // - Handle events that ->
     // - Updates state which is ->
     // - Rendered to the DOM
